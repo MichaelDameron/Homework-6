@@ -1,7 +1,7 @@
 # Homework-6
 Weather Dashboard (Using OpenWeather API and Javascript)
 
-Website link: 
+Website link: https://michaeldameron.github.io/Homework-6/
 
 Description: 
 This simple weather app will search for the current and 5-day forecast when a user enters a city into the search bar and clicks the search button. The weather info and forecast is gathered from OpenWeather API, displaying current temperature, wind speed, humidity and UV index in the "current conditions" conatiner; and displays the daily high temps, humidity, and weather index icon gathered from bootstrap services int the "5-Day-Forecast" conatiner. 
